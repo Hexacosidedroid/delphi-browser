@@ -1,3 +1,3 @@
 # delphi-browser
-простой браузер на Delphi с использованием api windows browser
-бакалавр - второй курс
+Простой браузер на Delphi с использованием api windows browser.
+Бакалавр - второй курс.
